@@ -45,7 +45,7 @@ To personalize this portfolio:
 1. Go to repository Settings
 2. Navigate to Pages section
 3. Select branch and save
-4. Your site will be available at `https://prashantkumar033.github.io/portfolio.com/`
+4. Your site will be available at `https://yourusername.github.io/repository-name/`
 
 ### Netlify/Vercel
 Simply connect your repository and deploy!
